@@ -1,6 +1,6 @@
 function {
 
-
+cualquier cosa (color)
 
   
 }
